@@ -11,4 +11,4 @@
 ** For Teams **
 Quick Access to Projects 
 
-[Breeze Project](https://github.com/search?q=topic%3Abreeze+org%3ASCubeCo&type=Repositories) | [SCube Clients] | [SCube Themes]
+[breeze](https://github.com/search?q=topic%3Abreeze+org%3ASCubeCo&type=Repositories) | [scube-clients](https://github.com/search?q=topic%3Ascube-clients+org%3ASCubeCo&type=Repositories) | [SCube Themes]
