@@ -11,4 +11,4 @@
 ** For Teams **
 Quick Access to Projects 
 
-[Breeze Project]([https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/search?q=topic%3Abreeze+org%3ASCubeCo&type=Repositories) | [SCube Clients] | [SCube Themes]
+[Breeze Project](https://github.com/search?q=topic%3Abreeze+org%3ASCubeCo&type=Repositories) | [SCube Clients] | [SCube Themes]
